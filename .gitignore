@@ -6,3 +6,5 @@ job_output/*
 *.out
 .*
 report.html
+
+envs/*
